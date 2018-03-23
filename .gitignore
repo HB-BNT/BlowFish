@@ -2,6 +2,9 @@
 *.lvlibp
 *.llb
 
+#Distributions and Builds
+\Builds
+
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
