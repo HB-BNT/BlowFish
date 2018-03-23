@@ -24,7 +24,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B9C40A89-1E83-4E3F-8F33-6720AAD0AE4E}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">BlowFish.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Builds/NI_AB_PROJECTNAME.lvlibp</Property>
@@ -36,7 +36,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{53A53F35-28F9-438D-B623-28B4B12D32B4}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4F9BB8E2-50C8-48A1-BFBC-27FDE15D70EA}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/BlowFish.lvlib</Property>
@@ -48,10 +48,10 @@
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Northrop Grumman / Rancho Carmel</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">BlowFish Encryption</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Initial release of the BlowFish PPL</Property>
 				<Property Name="TgtF_internalName" Type="Str">blowfish_encryptor_decryptor</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright NG Rancho Carmel Test Engineering © 2018 </Property>
-				<Property Name="TgtF_productName" Type="Str">BlowFish Encryption</Property>
+				<Property Name="TgtF_productName" Type="Str">BlowFish Cypher</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{2186B682-A181-4ABE-A2E7-4871FB151BD2}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">BlowFish.lvlibp</Property>
 			</Item>
