@@ -1,5 +1,5 @@
 # BlowFish
-LabVIEW implementation of BlowFish encryption/decryption utility
+LabVIEW implementation of __BlowFish__ encryption/decryption utility
 
 # Sources and Imspirations
 
